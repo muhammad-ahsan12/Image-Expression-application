@@ -5,7 +5,7 @@ from PIL import Image
 import os
 
 # Set up the Google API key environment variable
-os.environ['GOOGLE_API_KEY'] = 'AIzaSyA0S7F21ExbBnR06YXkEi7aj94nWP5kJho'
+os.environ['GOOGLE_API_KEY'] = ''
 
 # Initialize the language model
 llm = ChatGoogleGenerativeAI(model="gemini-pro-vision")
