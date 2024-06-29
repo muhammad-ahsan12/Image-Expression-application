@@ -1,0 +1,4 @@
+streamlit
+langchain_core
+langchain_google_genai
+Pillow==9.2.0
